@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**200anxy/200anxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**200xy/200xy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi There everyone! I am an Australia based coder from India and I specialize in coding with python.🐍 I'm currently working on a contacts database manager and I'm currently learning c++. You can reach me on Discord at 200anxy💬. I'm looking for help on how to encrypt things using python and decrypt them at a later date❔. Catch you later!😁😁
