@@ -1,2 +1,9 @@
-# Hello there
-Hi There everyone! I am an Australia based coder from India and I specialize in coding with python.🐍 I'm currently working on a contacts database manager and I'm currently learning c++. You can reach me on Discord at 200anxy💬. I'm looking for help on how to encrypt things using python and decrypt them at a later date❔. Catch you later!😁😁
+# Welcome
+If you've stumbled across this, you are either someone I know or are just bored
+## About me
+I'm just a guy who likes coding.
+My website, currently under construction : 200anxy.is-a.dev
+Talk to me on discord, username is 200anxy
+
+# Yeah thats pretty much it
+
