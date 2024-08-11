@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently working on my C# Unity Project, Fight The Slimes<br>Also, I'm currently learning C#<br>I love Python
-
+## Currently working on learning C# and my Unity game, Fight The Slimes. Proficient in Python, but always willing to learn more
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1141601157245046926) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Xy200) 
@@ -10,9 +9,6 @@ I'm currently working on my C# Unity Project, Fight The Slimes<br>Also, I'm curr
 ![](https://github-readme-stats.vercel.app/api?username=200anxy&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=200anxy&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=200anxy&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=200anxy&limit=5&theme=dark&combine_all_yearly_contributions=true)
